@@ -1,6 +1,4 @@
 script:
   - echo Hoooooooooo
   - npm install --global surge
-  - export SURGE_TOKEN=32d1520cab14bcaeb09923c7e8c190c5
-  - export SURGE_LOGIN=heshanandrews99@gmail.com
   - surge --project . --domain heshan.surge.sh
