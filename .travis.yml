@@ -1,4 +1,4 @@
 script:
   - echo Hoooooooooo
   - npm install --global surge
-  - surge --project . --domain heshan.surge.sh
+  - surge --project . --domain $DOMAIN
