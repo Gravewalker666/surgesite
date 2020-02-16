@@ -1,2 +1,4 @@
 script:
   - echo Hoooooooooo
+  - npm install surge
+  - surge
